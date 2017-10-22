@@ -1,4 +1,4 @@
-# LogisticRegression
+# Logistic Regression
 Using the Logistic Regression Learning Algorithm to Classify Data
 ![alt tag](https://github.com/vasan10591/LogisticRegression/blob/master/img/LogReg.png?raw=true)
 
